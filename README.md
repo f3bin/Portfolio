@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Febin Joseph — Portfolio
 
 A premium, responsive developer portfolio built with Next.js 14, React, TypeScript, Tailwind CSS and Framer Motion. The layout takes inspiration from the supplied reference repository, with original portfolio content and styling.
@@ -27,3 +28,7 @@ The experience, skills, certifications, education and three featured projects ar
 - Tailwind CSS
 - Framer Motion
 - Lucide React
+=======
+# Portfolio
+my portfolio with next js and framer motion
+>>>>>>> e147fa54e1bd4ff76f043590c7e36b7414e675de
